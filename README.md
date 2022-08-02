@@ -19,10 +19,21 @@ Pretendo e vou! iniciar meu ensino superior em Análise e Desenvolvimento de Sis
   <img align="center" alt="Well-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Well-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Well_Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <br><br>
+  
+  
+  
+  ##  _Atualmente estudando_
+ 
+<img align="center" alt="Well-React.js" height="30"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<br><br>
+
+
+## *Contatos*
+<a href="https://instagram.com/wevertonlbs" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1659415589~hmac=bbf6040cf5eefc816ef293b17f132170" target="_blank" height="45" width="50"></a>
+<a href = "mailto:wevertonlbs00@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="45" width="50" target="_blank"></a>
+<a href="https://www.linkedin.com/in/wevertonbarbosa00" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1659415808~hmac=1352f9165a5e612c41df8182775d2683" height="45" width="50" target="_blank"></a> 
+
 </div><br>
 
-<div align="center">
-<h2> Contatos </h2>
-<a href="https://instagram.com/wevertonlbs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:wevertonlbs00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/wevertonbarbosa00" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
