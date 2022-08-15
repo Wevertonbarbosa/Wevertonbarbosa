@@ -1,7 +1,10 @@
 
-<h1 align="center"><em> Bem-Vindo(a)<em></h1> 
-<h3 align="center">Olá, me chamo Weverton Lima!<br> Estou estudando e criando alguns projetos na área tecnológica através de algumas plataformas digitais e também estou estudando Inglês.<br>
-Pretendo e vou! iniciar meu ensino superior em Análise e Desenvolvimento de Sistemas (ADS)
+<h1 align="center"><em> Bem-Vindo(a)<em></h1>
+  
+### Olá, me chamo Weverton Lima!<br>
+
+* _Estou estudando e criando alguns projetos na área tecnológica através de algumas plataformas digitais e também estou estudando Inglês.<br>
+Pretendo e vou! iniciar meu ensino superior em Análise e Desenvolvimento de Sistemas (ADS)_
 <br><br><br><br>
 
 <div align="center">
