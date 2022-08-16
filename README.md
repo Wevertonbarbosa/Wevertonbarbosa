@@ -10,7 +10,7 @@ Pretendo e vou! iniciar meu ensino superior em Análise e Desenvolvimento de Sis
 <div align="center">
   <a href="https://github.com/wevertonbarbosa">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Wevertonbarbosa&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wevertonbarbosa&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wevertonbarbosa&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
 
