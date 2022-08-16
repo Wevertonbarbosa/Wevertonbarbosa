@@ -26,7 +26,7 @@ Pretendo e vou! iniciar meu ensino superior em Análise e Desenvolvimento de Sis
   
   
   
-  ##  _Atualmente estudando_
+  ##  _Estudando_
  
 <img align="center" alt="Well-React.js" height="50"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="Well-React.js" height="60"  width="60" src="https://cdn-icons-png.flaticon.com/512/5526/5526264.png">
