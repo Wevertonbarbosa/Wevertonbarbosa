@@ -22,6 +22,7 @@ Pretendo e vou! iniciar meu ensino superior em Análise e Desenvolvimento de Sis
   <img align="center" alt="Well-CSS3" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Well_Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Well_Java" height="50" width="50" src="https://miro.medium.com/max/652/1*N0XV3gco7Ed4brMoxwdjVg.png">
+  <img align="center" alt="Well_Bootstrap" height="50" width="50" src="https://toupto.com/wp-content/uploads/2018/07/Bootstrap-Icon.jpg">
   <br><br>
   
   
@@ -34,9 +35,7 @@ Pretendo e vou! iniciar meu ensino superior em Análise e Desenvolvimento de Sis
 
 
 ## *Contatos*
-<a href="https://instagram.com/wevertonlbs" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494488.png?token=exp=1660546443~hmac=16e0d35faa9aa83577fdb87e19ac270b" target="_blank" height="45" width="50"></a>
-<a href = "mailto:wevertonlbs00@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="45" width="50" target="_blank"></a>
-<a href="https://www.linkedin.com/in/wevertonbarbosa00" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256016.png?token=exp=1660546443~hmac=e528a6690ea0a3f9ec83ac7d6afbe434" height="45" width="50" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/wevertonbarbosa00" target="_blank"><img src="https://www.icone-png.com/png/4/3974.png" height="45" width="50" target="_blank"></a> 
 
 </div><br>
 
