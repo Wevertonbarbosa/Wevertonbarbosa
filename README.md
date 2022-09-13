@@ -31,6 +31,7 @@ Pretendo e vou! iniciar meu ensino superior em Análise e Desenvolvimento de Sis
  
 <img align="center" alt="Well-React.js" height="50"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="Well-React.js" height="60"  width="60" src="https://cdn-icons-png.flaticon.com/512/5526/5526264.png">
+<img align="center" alt="Well-React.js" height="60"  width="60" src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-logo-png-transparent.png">
 <br><br>
 
 
