@@ -14,7 +14,7 @@
 
 * *Meu objetivo é trabalhar como desenvolvedor Front End.*
 
-## <img height="5%" width="5%" src="https://cdn-icons-png.flaticon.com/512/3561/3561706.png"/> *Plano a curto prazo!*
+## <img height="5%" width="5%" src="https://cdn-icons-png.flaticon.com/512/3561/3561706.png"/> *Meta a curto prazo!*
 * *Pretendo e vou! iniciar meu ensino superior em Análise e Desenvolvimento de Sistemas (ADS)*
 <br><br>
 
