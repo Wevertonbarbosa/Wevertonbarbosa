@@ -1,12 +1,33 @@
 
-<h1 align="center"><em> Bem-Vindo(a)<em></h1>
+<h1 align="center"><em>Bem-Vindo(a)<em></h1>
   
 ### Olá, me chamo Weverton Lima!<br>
 
-* _Estou estudando e criando alguns projetos na área tecnológica através de algumas plataformas digitais e também estou estudando Inglês.<br>
-Pretendo e vou! iniciar meu ensino superior em Análise e Desenvolvimento de Sistemas (ADS)_
+* Estou estudando e me inscrevendo em diversas vagas na área da tecnologia, estou criando alguns projetos na área tecnológica através de algumas plataformas digitais e também estou estudando Inglês, estou sempre procurando me atualizar e estar por dentro das atualizações na tecnologia, procuro ser persistente pois acredito que com foco, disciplina, determinação e fé, irei conseguir alcançar meus objetivos e sonhos.
+
+* Me descobri na área tecnológica! desde pequeno meu sonho era ser Jogador de futebol como muitos jovens que nascem em bairros periféricos, mas acabou não dando certo e fique sem rumo em que seguir profissionalmente. Então, entrou no ano da pandemia e a área tecnológica cresceu de uma maneira absurda, então cresceu em mim um grande desejo de seguir carreira nesta área e desde então tenho estudado bastante para conseguir uma oportunidade.
+
+
 <br><br>
 
+## <img height="5%" width="5%" src="https://cdn-icons-png.flaticon.com/512/1694/1694364.png"/> *Objetivo*
+
+* *Meu objetivo é trabalhar como desenvolvedor Front End.*
+
+## <img height="5%" width="5%" src="https://cdn-icons-png.flaticon.com/512/3561/3561706.png"/> *Plano a curto prazo!*
+* *Pretendo e vou! iniciar meu ensino superior em Análise e Desenvolvimento de Sistemas (ADS)*
+<br><br>
+
+<h2 align="center">Portfólio</h2>
+
+<h3 align="center"><em> Acesse o meu Portfólio e veja como ficou incrível! 
+Também veja meus projetos.<em></h3>
+<h4 align="center">Clique na imagem...</h4>
+
+<div align="center"><a href="https://welldev.netlify.app/"> <img src="https://cdn-icons-png.flaticon.com/512/6646/6646541.png" height="5%" width="5%" /></div> 
+
+
+## *Histórico do GitHub* <img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" height="5%" width="5%"/>
 <div align="center">
   <a href="https://github.com/wevertonbarbosa">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Wevertonbarbosa&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
@@ -36,8 +57,8 @@ Pretendo e vou! iniciar meu ensino superior em Análise e Desenvolvimento de Sis
 
 
 ## *Contatos*
-<a href="https://www.linkedin.com/in/wevertonbarbosa00" target="_blank"><img src="https://www.icone-png.com/png/4/3974.png" height="45" width="50" target="_blank"></a> 
-
+<a href="https://www.linkedin.com/in/wevertonbarbosa00" target="_blank"><img src="https://www.icone-png.com/png/4/3974.png" height="5%" width="5%" target="_blank"> 
+<a href="https://welldev.netlify.app/"> <img src="https://cdn-icons-png.flaticon.com/512/6646/6646541.png" height="5%" target="_blank" width="5%"/>
 </div><br>
 
 
