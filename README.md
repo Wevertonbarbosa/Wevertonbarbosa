@@ -5,7 +5,7 @@
 
 * Estou estudando e me inscrevendo em diversas vagas na área da tecnologia, estou criando alguns projetos na área tecnológica através de algumas plataformas digitais e também estou estudando Inglês, estou sempre procurando me atualizar e estar por dentro das atualizações na tecnologia, procuro ser persistente pois acredito que com foco, disciplina, determinação e fé, irei conseguir alcançar meus objetivos e sonhos.
 
-* Me descobri na área tecnológica! desde pequeno meu sonho era ser Jogador de futebol como muitos jovens que nascem em bairros periféricos, mas acabou não dando certo e fique sem rumo em que seguir profissionalmente. Então, entrou no ano da pandemia e a área tecnológica cresceu de uma maneira absurda, então cresceu em mim um grande desejo de seguir carreira nesta área e desde então tenho estudado bastante para conseguir uma oportunidade.
+* Me descobri na área tecnológica! desde pequeno meu sonho era ser Jogador de futebol como muitos jovens que nascem em bairros periféricos, mas acabou não dando certo e fique sem rumo em que seguir profissionalmente. Então, entrou no ano da pandemia e a área tecnológica cresceu de uma maneira absurda, e logo cresceu em mim um grande desejo de seguir carreira nesta área e desde então tenho estudado bastante para conseguir uma oportunidade.
 
 
 <br><br>
