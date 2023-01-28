@@ -18,8 +18,7 @@
 ### Sobre mim:
 * Me descobri na área tecnológica! desde pequeno meu sonho era ser Jogador de futebol como muitos jovens que nascem em bairros periféricos, mas acabou não dando certo e fique sem rumo em que seguir profissionalmente. Então, entrou no ano da pandemia e a área tecnológica cresceu de uma maneira absurda, e logo cresceu em mim um grande desejo de seguir carreira nesta área e desde então tenho estudado bastante para conseguir uma oportunidade.
 
-
-<br><br>
+<br>
   
 ## <img height="8%" width="8%" src="https://play-lh.googleusercontent.com/-uaIzKnZGDATRaOT_DqYKdzuJTWgeeOvQeZ0XNUASysOAJaGNqkKlyVPk_tiNAZqG2Q=w240-h480-rw"/> *Ensino superior*
   
