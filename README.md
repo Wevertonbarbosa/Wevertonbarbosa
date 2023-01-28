@@ -6,8 +6,8 @@
 * Estudando na área da Tecnologia da informação, com objetivo de trabalhar na mesma área.
   Sou bolsista em uma das melhores faculdades de tecnologia do Brasil, FIAP.
   
-* Habilidades de programação/Programming Skill: 
-HTML5, CSS3, Bootstrap, JavaScript, React.Js, Java, Styled-Components  
+* ##Habilidades de programação/Programming Skill:<br> 
+* HTML5, CSS3, Bootstrap, JavaScript, React.Js, Java, Styled-Components  
   
 * Me descobri na área tecnológica! desde pequeno meu sonho era ser Jogador de futebol como muitos jovens que nascem em bairros periféricos, mas acabou não dando certo e fique sem rumo em que seguir profissionalmente. Então, entrou no ano da pandemia e a área tecnológica cresceu de uma maneira absurda, e logo cresceu em mim um grande desejo de seguir carreira nesta área e desde então tenho estudado bastante para conseguir uma oportunidade.
 
