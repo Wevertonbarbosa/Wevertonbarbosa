@@ -6,21 +6,26 @@
 * Estudando na área da Tecnologia da informação, com objetivo de trabalhar na mesma área.
   Sou bolsista em uma das melhores faculdades de tecnologia do Brasil, FIAP.
   
- ## Habilidades de programação/Programming Skill:<br> 
-HTML5, CSS3, Bootstrap, JavaScript, React.Js, Java, Styled-Components  
+### Habilidades de programação/Programming Skill:<br> 
+* HTML5, CSS3, Bootstrap, JavaScript, React.Js, Java, Styled-Components  
+
+### Ferramentas/Tools:<br>
+* Visual Studio Code, Git e Github e IntelliJ IDEA  
   
+### Atualmente estudando:
+* Java no curso Start Tech, Desenvolvedor Java na Maior empresa de tecnologia do Brasil, TOTVS e parceria com Let's code from Ada.  
+  
+### Sobre mim:
 * Me descobri na área tecnológica! desde pequeno meu sonho era ser Jogador de futebol como muitos jovens que nascem em bairros periféricos, mas acabou não dando certo e fique sem rumo em que seguir profissionalmente. Então, entrou no ano da pandemia e a área tecnológica cresceu de uma maneira absurda, e logo cresceu em mim um grande desejo de seguir carreira nesta área e desde então tenho estudado bastante para conseguir uma oportunidade.
 
 
 <br><br>
+  
+## <img height="8%" width="8%" src="https://play-lh.googleusercontent.com/-uaIzKnZGDATRaOT_DqYKdzuJTWgeeOvQeZ0XNUASysOAJaGNqkKlyVPk_tiNAZqG2Q=w240-h480-rw"/> *Ensino superior*
+  
+* *Iniciando o ensino superior em Análise e Desenvolvimento de Sistemas (ADS) em uma das melhoeres faculdade de tecnologia do País, FIAP*
 
-## <img height="5%" width="5%" src="https://cdn-icons-png.flaticon.com/512/1694/1694364.png"/> *Objetivo*
-
-* *Meu objetivo é trabalhar como desenvolvedor Front End.*
-
-## <img height="5%" width="5%" src="https://cdn-icons-png.flaticon.com/512/3561/3561706.png"/> *Meta a curto prazo!*
-* *Pretendo e vou! iniciar meu ensino superior em Análise e Desenvolvimento de Sistemas (ADS)*
-<br><br>
+  <br><br>
 
 <h2 align="center">Portfólio</h2>
 
@@ -29,7 +34,7 @@ Também veja meus projetos.<em></h3>
 <h4 align="center">Clique na imagem...</h4>
 
 <div align="center"><a href="https://welldev.netlify.app/"> <img src="https://cdn-icons-png.flaticon.com/512/6646/6646541.png" height="5%" width="5%" /></div> 
-
+<br>
 
 ## *Histórico do GitHub* <img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" height="5%" width="5%"/>
 <div align="center">
@@ -49,13 +54,13 @@ Também veja meus projetos.<em></h3>
   <img align="center" alt="Well_Java" height="50" width="50" src="https://miro.medium.com/max/652/1*N0XV3gco7Ed4brMoxwdjVg.png">
   <img align="center" alt="Well_Bootstrap" height="50" width="50" src="https://toupto.com/wp-content/uploads/2018/07/Bootstrap-Icon.jpg">
   <br><br>
+
   
   
   
   ##  _Estudando_
  
-<img align="center" alt="Well-React.js" height="50"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Well-React.js" height="60"  width="60" src="https://cdn-icons-png.flaticon.com/512/5526/5526264.png">
+<img align="center" alt="Well-React.js" height="50" width="250"  src="https://user-images.githubusercontent.com/102189860/215234949-0d8f289a-0f3d-4463-9595-ff32d04f4635.png">
 <img align="center" alt="Well-React.js" height="60"  width="60" src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-logo-png-transparent.png">
 <br><br>
 
