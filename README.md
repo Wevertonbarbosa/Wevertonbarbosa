@@ -32,7 +32,7 @@
 Também veja meus projetos.<em></h3>
 <h4 align="center">Clique na imagem...</h4>
 <h4 align="center">(Novo portifólio em andamento)<h4>
-<img src="https://media.tenor.com/9WFsBeb7sr8AAAAC/loading-gif.gif" height="20%" width="20%" />
+<div align="center"><img src="https://media.tenor.com/9WFsBeb7sr8AAAAC/loading-gif.gif" height="10%" width="50%" /></div>
 
 <div align="center"><a href="https://welldev.netlify.app/"> <img src="https://cdn-icons-png.flaticon.com/512/6646/6646541.png" height="5%" width="5%" /></div> 
 <br>
