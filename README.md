@@ -55,6 +55,11 @@ Também veja meus projetos.<em></h3>
   <img align="center" alt="Well_Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Well_Java" height="50" width="50" src="https://miro.medium.com/max/652/1*N0XV3gco7Ed4brMoxwdjVg.png">
   <img align="center" alt="Well_Bootstrap" height="50" width="50" src="https://toupto.com/wp-content/uploads/2018/07/Bootstrap-Icon.jpg">
+  <img align="center" alt="Well_Spring" height="50" width="50" src="https://img.icons8.com/color/256/spring-logo.png">
+  <img align="center" alt="Well_Spring" height="50" width="50" src="https://img.icons8.com/color/256/angularjs.png">
+  <img align="center" alt="Well_Spring" height="50" width="50" src="https://img.icons8.com/color/256/ionic.png">
+  <img align="center" alt="Well_Spring" height="50" width="50" src="https://img.icons8.com/color/256/typescript.png">
+  <img align="center" alt="Well_Spring" height="50" width="50" src="https://img.icons8.com/color/256/microsoft-sql-server.png">
   <br><br>
 
   
@@ -62,8 +67,11 @@ Também veja meus projetos.<em></h3>
   
   ##  _Estudando_
  
-<img align="center" alt="Well-React.js" height="50" width="250"  src="https://user-images.githubusercontent.com/102189860/215234949-0d8f289a-0f3d-4463-9595-ff32d04f4635.png">
-<img align="center" alt="Well-React.js" height="60"  width="60" src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-logo-png-transparent.png">
+<img align="center" alt="Well-React.js" height="8%" width="8%" src="https://play-lh.googleusercontent.com/-uaIzKnZGDATRaOT_DqYKdzuJTWgeeOvQeZ0XNUASysOAJaGNqkKlyVPk_tiNAZqG2Q=w240-h480-rw">
+  <img align="center" alt="Well-React.js" height="8%" width="8%" src="https://avatars.githubusercontent.com/u/4975968?s=280&v=4">
+  <img align="center" alt="Well-React.js" height="8%" width="8%" src="https://pbs.twimg.com/profile_images/1605220326870237184/VIaVEXOH_400x400.jpg">
+  <img align="center" alt="Well-React.js" height="8%" width="8%" src="https://user-images.githubusercontent.com/86318311/229201739-278fcc20-e112-4c1d-9e30-0d0cfe5790db.jpg">
+  <img align="center" alt="Well-React.js" height="8%" width="8%" src="https://t.ctcdn.com.br/vGdlfPqw1P6t4B3FEdTg7OPNGxo=/400x400/smart/filters:format(webp)/i612632.png">
 <br><br>
 
 
