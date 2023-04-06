@@ -31,10 +31,11 @@
 <h3 align="center"><em> Acesse o meu Portfólio e veja como ficou incrível! 
 Também veja meus projetos.<em></h3>
 <h4 align="center">Clique na imagem...</h4>
+<div align="center"><a href="https://welldev.netlify.app/"> <img src="https://cdn-icons-png.flaticon.com/512/6646/6646541.png" height="5%" width="5%" /></div> 
+
 <h4 align="center">(Novo portifólio em andamento)</h4>
 <div align="center"><img src="https://gifs.eco.br/wp-content/uploads/2021/08/imagens-e-gifs-de-loading-41.gif" height="5%" width="10%"/></div>
 
-<div align="center"><a href="https://welldev.netlify.app/"> <img src="https://cdn-icons-png.flaticon.com/512/6646/6646541.png" height="5%" width="5%" /></div> 
 <br>
 
 ## *Histórico do GitHub* <img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" height="5%" width="5%"/>
