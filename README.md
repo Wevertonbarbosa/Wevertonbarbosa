@@ -22,7 +22,7 @@
   
 ## <img height="8%" width="8%" src="https://play-lh.googleusercontent.com/-uaIzKnZGDATRaOT_DqYKdzuJTWgeeOvQeZ0XNUASysOAJaGNqkKlyVPk_tiNAZqG2Q=w240-h480-rw"/> *Ensino superior*
   
-* *Iniciando o ensino superior em Análise e Desenvolvimento de Sistemas (ADS) em uma das melhoeres faculdade de tecnologia do País, FIAP*
+* *Cursando ensino superior em Análise e Desenvolvimento de Sistemas (ADS) em uma das melhores faculdade de tecnologia do País, FIAP*
 
   <br><br>
 
