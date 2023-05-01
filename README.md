@@ -70,7 +70,6 @@ Também veja meus projetos.<em></h3>
 <img align="center" alt="Well-React.js" height="8%" width="8%" src="https://play-lh.googleusercontent.com/-uaIzKnZGDATRaOT_DqYKdzuJTWgeeOvQeZ0XNUASysOAJaGNqkKlyVPk_tiNAZqG2Q=w240-h480-rw">
   <img align="center" alt="Well-React.js" height="8%" width="8%" src="https://avatars.githubusercontent.com/u/4975968?s=280&v=4">
   <img align="center" alt="Well-React.js" height="8%" width="8%" src="https://pbs.twimg.com/profile_images/1605220326870237184/VIaVEXOH_400x400.jpg">
-  <img align="center" alt="Well-React.js" height="8%" width="8%" src="https://user-images.githubusercontent.com/86318311/229201739-278fcc20-e112-4c1d-9e30-0d0cfe5790db.jpg">
   <img align="center" alt="Well-React.js" height="8%" width="8%" src="https://t.ctcdn.com.br/vGdlfPqw1P6t4B3FEdTg7OPNGxo=/400x400/smart/filters:format(webp)/i612632.png">
 <br><br>
 
