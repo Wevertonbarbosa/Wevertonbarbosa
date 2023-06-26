@@ -7,7 +7,7 @@
   Sou bolsista em uma das melhores faculdades de tecnologia do Brasil, FIAP.
   
 ### Habilidades de programação/Programming Skill:<br> 
-* HTML5, CSS3, Bootstrap, JavaScript, React.Js, Java, Spring Boot, Angular, Ionic, TypeScript, SQL Serve, Styled-Components  
+* HTML5, CSS3, Bootstrap, JavaScript, React.Js, Java, Spring Boot, Angular, Ionic, TypeScript, SQL Serve, Styled-Components, PO-UI(Totvs)  
 
 ### Ferramentas/Tools:<br>
 * Visual Studio Code, Git e Github e IntelliJ IDEA  
@@ -30,12 +30,13 @@
 
 <h3 align="center"><em> Acesse o meu Portfólio e veja como ficou incrível! 
 Também veja meus projetos.<em></h3>
-<h4 align="center">Clique na imagem...</h4>
-<div align="center"><a href="https://welldev.netlify.app/"> <img src="https://cdn-icons-png.flaticon.com/512/6646/6646541.png" height="5%" width="5%" /></div> 
+<div style="display: flex">  
+  <h4 align="center">Acesse meu portfólio...</h4>
+  <div align="center"><a href="https://well-dev-04.vercel.app/"> <img src="https://cdn-icons-png.flaticon.com/512/4703/4703650.png"     height="10%" width="10%" /></div> 
 
-<h4 align="center">(Novo portifólio em andamento)</h4>
-<div align="center"><img src="https://gifs.eco.br/wp-content/uploads/2021/08/imagens-e-gifs-de-loading-41.gif" height="5%" width="10%"/></div>
-
+  <h4 align="center">Acesse meu App portfólio</h4>
+  <div align="center"><a href="https://welldev.netlify.app/"><img src="https://cdn-icons-png.flaticon.com/512/4866/4866880.png" height="5%" width="10%"/></div>
+</div>
 <br>
 
 ## *Histórico do GitHub* <img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" height="5%" width="5%"/>
@@ -60,6 +61,7 @@ Também veja meus projetos.<em></h3>
   <img align="center" alt="Well_Spring" height="50" width="50" src="https://img.icons8.com/color/256/ionic.png">
   <img align="center" alt="Well_Spring" height="50" width="50" src="https://img.icons8.com/color/256/typescript.png">
   <img align="center" alt="Well_Spring" height="50" width="50" src="https://img.icons8.com/color/256/microsoft-sql-server.png">
+  <img align="center" alt="Well_PO-UI" height="50" width="50" src="https://sempreju.com.br/wp-content/uploads/2021/01/48802478.png">
   <br><br>
 
   
@@ -76,7 +78,8 @@ Também veja meus projetos.<em></h3>
 
 ## *Contatos*
 <a href="https://www.linkedin.com/in/wevertonbarbosa00" target="_blank"><img src="https://www.icone-png.com/png/4/3974.png" height="5%" width="5%" target="_blank"> 
-<a href="https://welldev.netlify.app/"> <img src="https://cdn-icons-png.flaticon.com/512/6646/6646541.png" height="5%" target="_blank" width="5%"/>
+<a href="https://well-dev-04.vercel.app/"> <img src="https://cdn-icons-png.flaticon.com/512/4703/4703650.png" height="5%" target="_blank" width="5%"/>
+<a href="https://welldev.netlify.app/"> <img src="https://cdn-icons-png.flaticon.com/512/4866/4866880.png" height="5%" target="_blank" width="5%"/>
 </div><br>
 
 
