@@ -32,10 +32,10 @@
 Também veja meus projetos.<em></h3>
 <div style="display: flex">  
   <h4 align="center">Acesse meu portfólio...</h4>
-  <div align="center"><a href="https://well-dev-04.vercel.app/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/4703/4703650.png"     height="10%" width="10%" /></div> 
+  <div align="center"><a href="https://well-dev-04.vercel.app/"> <img src="https://cdn-icons-png.flaticon.com/512/4703/4703650.png"     height="10%" width="10%" /></div> 
 
   <h4 align="center">Acesse meu App portfólio</h4>
-  <div align="center"><a href="https://welldev.netlify.app/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/4866/4866880.png" height="5%" width="10%"/></div>
+  <div align="center"><a href="https://welldev.netlify.app/"><img src="https://cdn-icons-png.flaticon.com/512/4866/4866880.png" height="5%" width="10%"/></div>
 </div>
 <br>
 
@@ -77,9 +77,9 @@ Também veja meus projetos.<em></h3>
 
 
 ## *Contatos*
-<a href="https://www.linkedin.com/in/wevertonbarbosa00" target="blank"><img src="https://www.icone-png.com/png/4/3974.png" height="5%" width="5%" target="_blank"> 
-<a href="https://well-dev-04.vercel.app/" target="blank"> <img src="https://cdn-icons-png.flaticon.com/512/4703/4703650.png" height="5%" target="_blank" width="5%"/>
-<a href="https://welldev.netlify.app/" target="blank"> <img src="https://cdn-icons-png.flaticon.com/512/4866/4866880.png" height="5%" target="_blank" width="5%"/>
+<a href="https://www.linkedin.com/in/wevertonbarbosa00"><img src="https://www.icone-png.com/png/4/3974.png" height="5%" width="5%" target="_blank"> 
+<a href="https://well-dev-04.vercel.app/"> <img src="https://cdn-icons-png.flaticon.com/512/4703/4703650.png" height="5%" target="_blank" width="5%"/>
+<a href="https://welldev.netlify.app/" target="blank"> <img src="https://cdn-icons-png.flaticon.com/512/4866/4866880.png" height="5%" width="5%"/>
 </div><br>
 
 
