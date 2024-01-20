@@ -3,7 +3,7 @@
   
 ### Olá, me chamo Weverton Lima!<br>
 
-* Atualmente desenvolvedor de Software na maior empresa de tecnologia da América latina, TOTVS.
+* Atualmente sou desenvolvedor de Software na maior empresa de tecnologia da América latina, TOTVS.
 * Bolsista em uma das melhores faculdades de tecnologia do Brasil, FIAP.
   
 ### Habilidades de programação/Programming Skill:<br> 
