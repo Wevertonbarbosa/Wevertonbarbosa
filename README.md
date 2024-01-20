@@ -4,7 +4,7 @@
 ### Olá, me chamo Weverton Lima!<br>
 
 * Atualmente desenvolvedor de Software na maior empresa de tecnologia da América latina, TOTVS.
-  Bolsista em uma das melhores faculdades de tecnologia do Brasil, FIAP.
+* Bolsista em uma das melhores faculdades de tecnologia do Brasil, FIAP.
   
 ### Habilidades de programação/Programming Skill:<br> 
 * ADVPL (TOTVS), Angular, Bootstrap, CSS3, HTML5, Ionic, Java, JavaScript, PO-UI (TOTVS), React.Js, Spring Boot, SQL Server, Styled-Components, TypeScript e sempre em busca de evoluir mais...  
