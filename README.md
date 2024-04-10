@@ -37,12 +37,12 @@ desenvolvimento de software.
   </tr>
 </table>
   
-### Atualmente estudando:
+### Atualmente estudando:📚
 * Cursando análise e desenvolvimento de sistemas, ensino superior na FIAP.
 * Estudando Programação na Alura.
 * Estudando Inglês na Alura. 
   
-### Sobre mim:
+### Sobre mim:🧑‍💻
 * Me descobri na área tecnológica! desde pequeno meu sonho era ser Jogador de futebol como muitos jovens que nascem em bairros periféricos, mas acabou não dando certo e fiquei sem rumo em que seguir profissionalmente. Então, entrou no ano da pandemia e a área tecnológica cresceu de uma maneira absurda, e logo cresceu em mim um grande desejo de seguir carreira nesta área e desde então tenho estudado bastante para conseguir uma oportunidade.
 
 <br>
