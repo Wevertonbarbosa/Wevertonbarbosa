@@ -1,13 +1,41 @@
+_<h1 align="center">Olá, me chamo Weverton Lima!</h1>_
 
-<h1 align="center"><em>Bem-Vindo(a)<em></h1>
-  
-### Olá, me chamo Weverton Lima!<br>
-
-* Atualmente sou desenvolvedor de Software na maior empresa de tecnologia da América latina, TOTVS.
+### Conquistas e destaques: 🏆
+* Trabalhei como Desenvolvedor de Software em uma das maiores empresas de tecnologia da América Latina.
 * Bolsista em uma das melhores faculdades de tecnologia do Brasil, FIAP.
+* Formado como desenvolvedor java no projeto Start <Tech> TOTVS e parceria Ada Tech como turma
+piloto, sendo o primeiro da turma a ser contratado pela empresa TOTVS como Técnico de
+desenvolvimento de software.
+* Formado como Desenvolvedor Front-end/Web no Instituto da oportunidade social (IOS).
+
+### Habilidades de programação/Programming Skill: 🛠️ <br> 
+<table>
+  <tr>
+    <td>ADVPL (TOTVS)</td>
+    <td>HTML5</td>
+    <td>PO-UI (TOTVS)</td>
+    <td>Styled-Components</td>
+  </tr>
+  <tr>
+    <td>Angular</td>
+    <td>Ionic</td>
+    <td>React.Js</td>
+    <td>TypeScript</td>
+  </tr>
+  <tr>
+    <td>Bootstrap</td>
+    <td>Java</td>
+    <td>Spring Boot</td>
+    <td>Kotlin</td>
+  </tr>
   
-### Habilidades de programação/Programming Skill:<br> 
-* ADVPL (TOTVS), Angular, Bootstrap, CSS3, HTML5, Ionic, Java, JavaScript, PO-UI (TOTVS), React.Js, Spring Boot, SQL Server, Styled-Components, TypeScript e sempre em busca de evoluir mais...  
+  <tr>
+    <td>CSS3</td>
+    <td>JavaScript</td>
+    <td>SQL Serve</td>
+    <td>Git</td>
+  </tr>
+</table>
   
 ### Atualmente estudando:
 * Cursando análise e desenvolvimento de sistemas, ensino superior na FIAP.
@@ -49,6 +77,7 @@
   <img align="center" alt="Well_Spring" height="50" width="50" src="https://img.icons8.com/color/256/microsoft-sql-server.png">
   <img align="center" alt="Well_PO-UI" height="50" width="50" src="https://sempreju.com.br/wp-content/uploads/2021/01/48802478.png">
   <img align="center" alt="Well_ADVPL" height="50" width="80" src="https://bluecast.com.br/wp-content/uploads/2021/11/Bluecast-IT-Outsourcing-ADVPL.jpg">
+  <img align="center" alt="Well_Kotlin" height="50" width="80" src="https://logowik.com/content/uploads/images/kotlin.jpg">
   <br><br>
 
   
