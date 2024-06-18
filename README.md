@@ -8,7 +8,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP, insti
 
 
 ### Habilidades de programação/Programming Skill: 🛠️ <br> 
-<table>
+<table border="6">
   <tr>
     <td>ADVPL (TOTVS)</td>
     <td>HTML5</td>
@@ -45,7 +45,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP, insti
 </table>
   
 ### Habilidades:📊📈
-<table>
+<table border="6">
 <tr>
     <td>Trabalho em equipe</td>
     <td>Resolução de Problemas</td>
