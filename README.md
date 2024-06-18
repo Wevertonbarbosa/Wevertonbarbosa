@@ -1,12 +1,11 @@
 _<h1 align="center">Olá, me chamo Weverton Lima!</h1>_
 
-### Conquistas e destaques: 🏆
-* Trabalhei como Desenvolvedor de Software em uma das maiores empresas de tecnologia da América Latina.
-* Bolsista em uma das melhores faculdades de tecnologia do Brasil, FIAP.
-* Formado como desenvolvedor java no projeto Start <Tech> TOTVS e parceria Ada Tech como turma
-piloto, sendo o primeiro da turma a ser contratado pela empresa TOTVS como Técnico de
-desenvolvimento de software.
-* Formado como Desenvolvedor Front-end/Web no Instituto da oportunidade social (IOS).
+### Resumo profissional: 🏆
+* Sou um Desenvolvedor front end e sou apaixonado pela tecnologia, com experiência comprovada no setor de tecnologia em uma das melhores empresas de tecnologia do Brasil, atuando em um ambiente altamente competitivo e inovador.
+* Tenho conhecimento sólido em HTML5, CSS3 e JavaScript, com experiência nos principais frameworks Angular, Vue e React. Possuo fortes habilidades em Back-End com Java e Spring Boot, além de experiência com bancos de dados relacionais como Oracle, SQL Server e MySQL e sempre me desafio em novas tecnologias.
+* Tenho mais de 20 certificações em renomadas instituições como Alura, DIO, FIAP, TOTVS e Ada Tech e sempre com muita vontade de aprender. 
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP, instituição com nota máxima no MEC e referência em inovação tecnológica no Brasil.
+
 
 ### Habilidades de programação/Programming Skill: 🛠️ <br> 
 <table>
@@ -35,21 +34,59 @@ desenvolvimento de software.
     <td>SQL Serve</td>
     <td>Git</td>
   </tr>
+<tr>
+    <td>Docker</td>
+    <td>Vue.JS</td>
+    <td>Oracle</td>
+    <td>MySQL</td>
+  </tr>
+
+  
 </table>
   
-### Atualmente estudando:📚
-* Cursando análise e desenvolvimento de sistemas, ensino superior na FIAP.
-* Estudando Programação na Alura.
-* Estudando Inglês na Alura. 
-  
-### Sobre mim:🧑‍💻
-* Me descobri na área tecnológica! desde pequeno meu sonho era ser Jogador de futebol como muitos jovens que nascem em bairros periféricos, mas acabou não dando certo e fiquei sem rumo em que seguir profissionalmente. Então, entrou no ano da pandemia e a área tecnológica cresceu de uma maneira absurda, e logo cresceu em mim um grande desejo de seguir carreira nesta área e desde então tenho estudado bastante para conseguir uma oportunidade.
+### Habilidades:📊📈
+<table>
+<tr>
+    <td>Trabalho em equipe</td>
+    <td>Resolução de Problemas</td>
+    <td>Atenção aos Detalhes</td>
+    <td>Vue</td>
+    <td>Comunicação</td>
+    <td>MHTML5 e CSS3</td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>Bootstrap</td>
+    <td>Consumo de RESTful APIs</td>
+    <td>Testes automatizados</td>
+    <td>Git e Github</td>
+    <td>Interfaces UX/UI</td>
+  </tr>
+  <tr>
+    <td>Angular</td>
+    <td>TypeScript</td>
+    <td>Responsive Design</td>
+    <td>Oracle</td>
+    <td>SQL Server</td>
+    <td>MySQL</td>
+  </tr>
+  <tr>
+    <td>Proatividade</td>
+    <td>API Rest</td>
+    <td>Persistência</td>
+    <td>Banco de dados Relacionais</td>
+    <td>Java</td>
+    <td>Spring Boot</td>
+  </tr>
+
+</table>
 
 <br>
+
  
 ## <img height="8%" width="8%" src="https://play-lh.googleusercontent.com/-uaIzKnZGDATRaOT_DqYKdzuJTWgeeOvQeZ0XNUASysOAJaGNqkKlyVPk_tiNAZqG2Q=w240-h480-rw"/> *Ensino superior*
   
-* *Cursando ensino superior em Análise e Desenvolvimento de Sistemas (ADS) em uma das melhores faculdade de tecnologia do País, FIAP*
+* *Cursando ensino superior em Análise e Desenvolvimento de Sistemas (ADS), término em Dezembro de 2024*
 
 <br>
 
@@ -78,6 +115,10 @@ desenvolvimento de software.
   <img align="center" alt="Well_PO-UI" height="50" width="50" src="https://sempreju.com.br/wp-content/uploads/2021/01/48802478.png">
   <img align="center" alt="Well_ADVPL" height="50" width="80" src="https://bluecast.com.br/wp-content/uploads/2021/11/Bluecast-IT-Outsourcing-ADVPL.jpg">
   <img align="center" alt="Well_Kotlin" height="50" width="80" src="https://logowik.com/content/uploads/images/kotlin.jpg">
+  <img align="center" alt="Well_Docker" height="50" width="80" src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2015.png">
+  <img align="center" alt="Well_MySql" height="50" width="80" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png">
+  <img align="center" alt="Well_Vue" height="50" width="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIIwtCza6Kxf2sK8EV0JfPC8---wpj370d_0XqbxnATMzBmTqV6oQO5m2BmZjwIlj_0qE&usqp=CAU">
+  <img align="center" alt="Well_oracle" height="50" width="80" src="https://allvectorlogo.com/img/2017/02/oracle-database-logo.png">
   <br><br>
 
   
