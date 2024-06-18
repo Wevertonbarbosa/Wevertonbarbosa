@@ -51,31 +51,37 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP, insti
     <td>Resolução de Problemas</td>
     <td>Atenção aos Detalhes</td>
     <td>Vue</td>
-    <td>Comunicação</td>
-    <td>MHTML5 e CSS3</td>
   </tr>
   <tr>
     <td>JavaScript</td>
     <td>Bootstrap</td>
     <td>Consumo de RESTful APIs</td>
     <td>Testes automatizados</td>
-    <td>Git e Github</td>
-    <td>Interfaces UX/UI</td>
   </tr>
   <tr>
     <td>Angular</td>
     <td>TypeScript</td>
     <td>Responsive Design</td>
     <td>Oracle</td>
-    <td>SQL Server</td>
-    <td>MySQL</td>
   </tr>
   <tr>
     <td>Proatividade</td>
     <td>API Rest</td>
     <td>Persistência</td>
     <td>Banco de dados Relacionais</td>
-    <td>Java</td>
+  </tr>
+  
+  <tr>
+  <td>Comunicação</td>
+    <td>MHTML5 e CSS3</td>
+     <td>Git e Github</td>
+    <td>Interfaces UX/UI</td>
+  </tr>
+
+  <tr>
+  <td>SQL Server</td>
+    <td>MySQL</td>
+   <td>Java</td>
     <td>Spring Boot</td>
   </tr>
 
